@@ -1,0 +1,18 @@
+#Texture
+3
+models\hardwood.jpg
+models\images.jpeg
+models\wood.jpg
+#Wall
+4
+-6	-4	+6	-4	+3.6	0
++6	-4	+6	+4	+3.6	0
++6	+4	-6	+4	+3.6	0
+-6	+4	-6	-4	+3.6	0
+#Floor
+2
+-6	-4	+6	+4	+0	1
+-6	-4	+6	+4	+3.6	2
+
+// 6 thông số của một Wall
+// x1 z1 x2 z2 h textureIndex
